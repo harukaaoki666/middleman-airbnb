@@ -1,0 +1,14 @@
+.team-list {
+    min-height: 90vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.team-list--image {
+   width: 75%;
+}
+
+.team-list--item {
+  width: 30%;
+}
